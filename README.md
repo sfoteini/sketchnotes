@@ -5,6 +5,7 @@
 Hello, I am sharing some of my sketch notes, which were originally posted on my blog *([www.foteinisavvidou.codes](https://www.foteinisavvidou.codes/))*.
 
 * Automate Cloud Resource Management (based on the [Microsoft Learn module](https://aka.ms/CMUAutomateCloud))
+* Azure Computer Vision: Types of Image Analysis
 
 
 
