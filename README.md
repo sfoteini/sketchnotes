@@ -6,6 +6,7 @@ Hello, I am sharing some of my sketch notes, which were originally posted on my 
 
 * Automate Cloud Resource Management (based on the [Microsoft Learn module](https://aka.ms/CMUAutomateCloud))
 * Azure Computer Vision: Types of Image Analysis
+* Azure Computer Vision: Optical character recognition and the READ API (based on [Microsoft Docs - Azure Computer Vision: OCR](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr))
 
 
 
