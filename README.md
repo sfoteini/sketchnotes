@@ -7,6 +7,7 @@ Hello, I am sharing some of my sketch notes, which were originally posted on my 
 * Automate Cloud Resource Management (based on the [Microsoft Learn module](https://aka.ms/CMUAutomateCloud))
 * Azure Computer Vision: Types of Image Analysis
 * Azure Computer Vision: Optical character recognition and the READ API (based on [Microsoft Docs - Azure Computer Vision: OCR](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr))
+* Azure Custom Vision (based on [Microsoft Docs - Azure Custom Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/overview) and the Microsoft Learn modules: [Classify images with the Custom Vision service](https://docs.microsoft.com/el-gr/learn/modules/classify-images-custom-vision/) and [Classify endangered bird species with Custom Vision](https://docs.microsoft.com/el-gr/learn/modules/cv-classify-bird-species/))
 
 
 
