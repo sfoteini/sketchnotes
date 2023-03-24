@@ -10,6 +10,7 @@ Hello, I am sharing some of my sketch notes, which were originally posted on my 
 * Azure Custom Vision (based on [Microsoft Docs - Azure Custom Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/overview) and the Microsoft Learn modules: [Classify images with the Custom Vision service](https://docs.microsoft.com/el-gr/learn/modules/classify-images-custom-vision/) and [Classify endangered bird species with Custom Vision](https://docs.microsoft.com/el-gr/learn/modules/cv-classify-bird-species/))
 * Azure Translator (based on the [Microsoft Docs - Translator](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/) and the Microsoft Learn module [Introduction to Translator](https://docs.microsoft.com/learn/modules/intro-to-translator/))
 * Introduction to IoT
+* Overview of Azure Form recognizer
 
 
 ## Licence
